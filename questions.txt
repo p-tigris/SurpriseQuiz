@@ -1,0 +1,46 @@
+What is compile time and run time?
+Compile time is when the code is converted to an executable file while run time is when the executable file
+is running.
+
+What is heap?
+Heap is where memory for classes and variables are allocated in Java, as opposed to stacks.
+
+How java manage it's memory?
+It allocates memory into heaps and stacks. Garbage collection removes unused data.
+
+What is the difference between String, StringBuffer and StringBuilder?
+String is a data type for storing a string of characters.
+Stringbuffer and Stringbuilder are used to create Strings that can change value.
+
+What is Singleton class?
+A Singleton class is a class that can only have one object.
+
+What is Serialization and Deserialization?
+Serialization changes objects into byte stream. Deserialization is the reverse of that process, and needs
+serialization in order to function.
+
+Which one will take more memory, an int or Integer?
+Integer takes more memory because it is 16 bytes while int is 4 bytes.
+
+Why is String Immutable in Java?
+It is mainly immutable for security reasons, as well as making it easier to treat them as normal variables which
+can used between different methods.
+
+What is constructor chaining in Java?
+It is calling one constructor from another constructor with respect to the current object.
+
+The difference between Serial and Parallel Garbage Collector?
+Serial uses a single thread for garbage collection while parallel uses multple threads for garbage collection.
+
+What is JIT stands for?
+Just In Time. The code in Java is compiled as the code is running.
+
+Explain Java Heap space and Garbage collection?
+During runtime Java heap space allocates memory to Objects and classes. Garbage collection frees heap space by
+removing objects that have no reference to them.
+
+Can you guarantee the garbage collection process?
+No you cannot guarantee it. It is dependent on the JVM.
+
+What is the difference between stack and heap in Java?
+Stack is only used by on thread of execution while heap is used by the whole application
