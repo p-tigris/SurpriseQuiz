@@ -1,4 +1,4 @@
-package surprisequiz.oop;
+package surprisequiz.oop.abstraction;
 
 public abstract class Abstraction implements Interface {
     public abstract void methodA();

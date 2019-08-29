@@ -1,4 +1,4 @@
-package surprisequiz.oop;
+package surprisequiz.oop.abstraction;
 
 public class AbstractionExecution extends Abstraction {
     @Override

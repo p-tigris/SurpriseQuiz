@@ -1,4 +1,4 @@
-package surprisequiz.oop;
+package surprisequiz.oop.abstraction;
 
 public interface Interface {
     public void methodA();
